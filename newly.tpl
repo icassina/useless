@@ -1,6 +1,6 @@
 // Exported from:        http://desktop:5516/#/templates/Release1deead7386214143b0484e55478b287a/releasefile
 // XL Release version:   8.1.0-SNAPSHOT
-// Date created:         Mon Jun 11 16:31:53 CEST 2018
+// Date created:         Mon Jun 11 16:33:16 CEST 2018
 
 xlr {
   template('newly') {
@@ -18,6 +18,9 @@ xlr {
             
           }
           manual('aaaaa') {
+            
+          }
+          manual('asd') {
             
           }
         }
