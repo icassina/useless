@@ -1,6 +1,6 @@
 // Exported from:        http://aiki.xebialabs.com:5516/#/templates/FolderSamplesAndTutorials-ReleaseTemplate_welcome/releasefile
 // XL Release version:   8.1.0-rc.3
-// Date created:         Wed Jun 13 16:25:06 CEST 2018
+// Date created:         Wed Jun 13 16:25:23 CEST 2018
 
 xlr {
   template('Welcome to XL Release!') {
