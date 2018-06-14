@@ -1,6 +1,6 @@
 // Exported from:        http://windows:5516/#/templates/Folder76b5d98656114311a115356b499ca873-Release91783e64f681467f836c1b1fccdb9217/releasefile
 // XL Release version:   8.1.0-rc.3
-// Date created:         Thu Jun 14 13:32:06 CEST 2018
+// Date created:         Thu Jun 14 13:34:36 CEST 2018
 
 xlr {
   template('Main Template') {
@@ -11,13 +11,13 @@ xlr {
     scriptUsername 'script'
     scriptUserPassword '{b64}uxh9yF5IqFv3Mb6LqYl+vA=='
     phases {
-      phase('design') {
+      phase('Design') {
         scheduledStartDate Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2018-06-14T00:00:00+0200')
         dueDate Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2018-06-23T01:00:00+0200')
         plannedDuration 781200
         color '#0099CC'
         tasks {
-          parallelGroup('Sketching feature') {
+          parallelGroup('Feature Design') {
             scheduledStartDate Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2018-06-14T00:00:00+0200')
             dueDate Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2018-06-19T00:00:00+0200')
             plannedDuration 432000
