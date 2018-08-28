@@ -1,6 +1,6 @@
 // Exported from:        http://aiki.xebialabs.com:5516/#/templates/Release5d000eb680514d2da56e4968bed0f609/releasefile
 // XL Release version:   8.1.0-SNAPSHOT
-// Date created:         Tue Aug 28 16:36:50 CEST 2018
+// Date created:         Tue Aug 28 16:37:24 CEST 2018
 
 xlr {
   template('Template1') {
@@ -18,6 +18,11 @@ xlr {
                 text 'here my comment #1'
                 author 'admin'
                 date Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2018-08-28T16:36:22+0200')
+              }
+              comment {
+                text 'comment #2'
+                author 'admin'
+                date Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2018-08-28T16:37:09+0200')
               }
             }
           }
