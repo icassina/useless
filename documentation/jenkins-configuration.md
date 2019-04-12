@@ -32,7 +32,11 @@ Setup your first (and only) job:
 
 now you can click "Build now"
 
-test results will be found here:
+Basic build information (SCM changes etc) can be seen at:
+
+    curl -u xlr-facet:xlr-facet "$JENKINS_URL/job/Useless%20Job/1/api/json?pretty=true
+
+test results will be found here (just add "testReport"):
 
     curl -u xlr-facet:xlr-facet "$JENKINS_URL/job/Useless%20Job/1/testReport/api/json?pretty=true
 
