@@ -1,0 +1,9 @@
+<project version="4">
+  <component name="ClojureProjectResolveSettings">
+    <currentScheme>IDE</currentScheme>
+  </component>
+  <component name="JavaScriptSettings">
+    <option value="ES6" name="languageLevel"/>
+  </component>
+  <component project-jdk-type="JavaSDK" project-jdk-name="1.8" default="false" languageLevel="JDK_1_8" version="2" name="ProjectRootManager"/>
+</project>
