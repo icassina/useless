@@ -6,3 +6,5 @@ new commit
 newer!
 
 trigger a relase please
+
+using folder config
